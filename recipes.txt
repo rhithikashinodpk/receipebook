@@ -1,5 +1,10 @@
 receipe name:biriyani
 ingridents:rice :1kg
         ghee:250g
-        cashewnut
+        cashewnut:
+        chickem:1kg
+        masala
+        onion
+        tomato
+        chilly
 
